@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\alexlineedit.o
+./release\myfontcombobox.o
+./release\myradiobutton.o
+./release\myhorizontalslider.o
+./release\moc_mainwindow.o
+./release\moc_alexlineedit.o
+./release\moc_myfontcombobox.o
+./release\moc_myradiobutton.o
+./release\moc_myhorizontalslider.o
+);

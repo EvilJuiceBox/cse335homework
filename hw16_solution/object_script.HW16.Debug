@@ -1,0 +1,13 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\alexlineedit.o
+./debug\myfontcombobox.o
+./debug\myradiobutton.o
+./debug\myhorizontalslider.o
+./debug\moc_mainwindow.o
+./debug\moc_alexlineedit.o
+./debug\moc_myfontcombobox.o
+./debug\moc_myradiobutton.o
+./debug\moc_myhorizontalslider.o
+);
